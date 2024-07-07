@@ -1,0 +1,6 @@
+canmatrix==1.0
+cantools==39.2.0
+pandas==1.5.1
+PyQt6==6.7.0
+PyQt6_sip==13.6.0
+python_can==4.0.0
